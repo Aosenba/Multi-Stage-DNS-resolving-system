@@ -1,0 +1,3 @@
+twitter.com 101.2.3.4
+facebook.com 102.2.3.4
+google.com 8.8.8.8
